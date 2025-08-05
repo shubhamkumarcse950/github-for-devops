@@ -8,3 +8,6 @@ git rm --cached testing.py
 
 
 this changes should replicate on gitub screen
+
+
+this is amother changes in gitcommands.txt
