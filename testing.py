@@ -1,1 +1,2 @@
-print("hello dosto kya haal chal")git
+print("hello dosto kya haal chal")
+print("sab badhiya hai")
